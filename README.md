@@ -1,7 +1,7 @@
 # 🌲 ForestWatch AI
 
 **Explainable satellite AI that maps land cover, detects forest loss between two dates, and turns it into an action plan.**
-
+[https://colab.research.google.com/github/UTSAV10MAX/forest-cover-ai/blob/main/Forest_Classifier_Model.ipynb]
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UTSAV10MAX/forestwatch-ai/blob/main/Forest_Classifier_Model.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ResNet18-EE4C2C.svg)
