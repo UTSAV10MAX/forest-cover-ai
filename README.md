@@ -1,6 +1,11 @@
 # 🌲 ForestWatch AI
+**Track 2: Green Planet | Problem Statement: GP-04 (Illegal Deforestation Detection)**  
+**Team Name:** [Team SpongeBob]  
+**Team Member:** Utsav  
 
 **Explainable satellite AI that maps land cover, detects forest loss between two dates, and turns it into an action plan.**
+
+
 [https://colab.research.google.com/github/UTSAV10MAX/forest-cover-ai/blob/main/Forest_Classifier_Model.ipynb]
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
@@ -222,6 +227,10 @@ pinned: false
 - Georeferenced outputs (GeoTIFF or GeoJSON) for GIS tools
 
 ---
+## 🤖 AI Tools Disclosure
+In compliance with hackathon guidelines, we disclose the following AI development tools used during the creation of ForestWatch AI:
+- **Gemini / Claude:** Utilized for architectural structuring, debugging PyTorch tensor hooks for Grad-CAM explainability, and refining technical documentation.
+- **GitHub Copilot / IDE Assistance:** Used for rapid code syntax completion and UI component formatting in Streamlit.
 
 ## 🙏 Credits
 
