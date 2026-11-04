@@ -45,23 +45,23 @@ ForestWatch AI is a Streamlit web app on top of a **ResNet18** classifier fine-t
 
 | 🔍 Classification with probabilities | 🔥 Grad-CAM explainability |
 | :---: | :---: |
-| ![Classify a patch](screenshots/1_classify.png) | ![Grad-CAM](screenshots/2_gradcam.png) |
+| ![Classify a patch](1_classify.png) | ![Grad-CAM](2_gradcam.png) |
 
 | 🗺️ Large-scene land-cover map |
 | :---: |
-| ![Scan a large image](screenshots/3_scan.png) |
+| ![Scan a large image](3_scan.png) |
 
 | 📉 Before / after change detection |
 | :---: |
-| ![Change detection](screenshots/4_change_detection.png) |
+| ![Change detection](4_change_detection.png) |
 
 | 🛡️ Field response and recovery plan |
 | :---: |
-| ![Field response plan](screenshots/5_response_plan.png) |
+| ![Field response plan](5_response_plan.png) |
 
 | 📊 Model performance | 🧮 Confusion matrix and per-class metrics |
 | :---: | :---: |
-| ![Model performance](screenshots/6_model_performance.png) | ![Confusion matrix](screenshots/7_confusion_matrix.png) |
+| ![Model performance](6_model_performance.png) | ![Confusion matrix](7_confusion_matrix.png) |
 
 > The change-detection screenshots use the built-in **demo scene**, a synthetic before/after mosaic assembled from real EuroSAT validation patches. It demonstrates the pipeline and is **not a real deforestation event**. See [Limitations](#-limitations-and-honest-notes).
 
